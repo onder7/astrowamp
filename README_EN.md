@@ -2,6 +2,18 @@
 
 > **Language / Dil:** [🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
 
+### 🎯 Full-Featured Development Environment
+
+With AstroWAMP, you can run the following services on a single platform:
+
+- ⚡ **Apache Web Server** - Powerful and flexible web server
+- 🐘 **PHP** - The most popular server-side programming language
+- 🗄️ **MySQL Database** - Reliable and fast database management
+- 🟢 **Node.js** - Modern JavaScript runtime environment
+- 📊 **phpMyAdmin** - Easy-to-use database management interface
+
+Start and stop all these services with a single click! No installation required, completely portable.
+
 ## 🚀 Standalone Executable
 
 This is the portable version of the AstroWAMP Node.js application. It runs as a single .exe file with Node.js runtime included.
