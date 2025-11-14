@@ -2,11 +2,23 @@
 
 > **Language / Dil:** [🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
 
+
 ## 🚀 Standalone Executable
 
 Bu, AstroWAMP Node.js uygulamasının portable (taşınabilir) versiyonudur. Node.js runtime dahil tek bir .exe dosyası olarak çalışır.
 
-Bu, AstroWAMP Node.js uygulamasının portable (taşınabilir) versiyonudur. Node.js runtime dahil tek bir .exe dosyası olarak çalışır.
+### 🎯 Tam Özellikli Geliştirme Ortamı
+
+AstroWAMP ile aşağıdaki servisleri tek bir platformda çalıştırabilirsiniz:
+
+- ⚡ **Apache Web Server** - Güçlü ve esnek web sunucusu
+- 🐘 **PHP** - En popüler sunucu taraflı programlama dili
+- 🗄️ **MySQL Database** - Güvenilir ve hızlı veritabanı yönetimi
+- 🟢 **Node.js** - Modern JavaScript runtime ortamı
+- 📊 **phpMyAdmin** - Kolay veritabanı yönetim arayüzü
+
+Tüm bu servisleri tek bir tıklama ile başlatıp durdurun! Kurulum gerektirmez, tamamen portable.
+
 <img width="1914" height="1025" alt="image" src="https://github.com/user-attachments/assets/df255f66-d1d2-4e83-bbf9-98eff522de02" />
 
 <img width="1971" height="634" alt="image" src="https://github.com/user-attachments/assets/5c251090-576a-4961-b34b-100902e82932" />
