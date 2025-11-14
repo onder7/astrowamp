@@ -1,6 +1,10 @@
-# AstroWAMP Portable Apache MYSQL PHP PhpMyAdmin Node.js Application
+# AstroWAMP Portable Node.js Application
+
+> **Language / Dil:** [🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
 
 ## 🚀 Standalone Executable
+
+Bu, AstroWAMP Node.js uygulamasının portable (taşınabilir) versiyonudur. Node.js runtime dahil tek bir .exe dosyası olarak çalışır.
 
 Bu, AstroWAMP Node.js uygulamasının portable (taşınabilir) versiyonudur. Node.js runtime dahil tek bir .exe dosyası olarak çalışır.
 <img width="1914" height="1025" alt="image" src="https://github.com/user-attachments/assets/df255f66-d1d2-4e83-bbf9-98eff522de02" />
