@@ -1,4 +1,4 @@
-# AstroWAMP Portable Node.js Application
+# AstroWAMP Portable Apache MYSQL PHP PhpMyAdmin Node.js Application
 
 ## 🚀 Standalone Executable
 
@@ -91,7 +91,9 @@ Tüm işlemler `logs/app-YYYY-MM-DD.log` formatında loglanır.
 - Üretim ortamında ek güvenlik önlemleri alın
 
 ## 🐛 Sorun Giderme
+### Apache (httpd start olmaz ise kurmayın unutmayın) -> VC_redist.x64.exe 
 
+Ana proje için: AstroWAMP GitHub
 ### "Port Already in Use" Hatası
 ```cmd
 # Farklı bir port kullanın
