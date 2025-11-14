@@ -13,6 +13,9 @@ Bu, AstroWAMP Node.js uygulamasının portable (taşınabilir) versiyonudur. Nod
 
 <img width="1913" height="1032" alt="image" src="https://github.com/user-attachments/assets/eda1fdb3-58ab-4582-b109-da30bc79655d" />
 
+<img width="1215" height="922" alt="image" src="https://github.com/user-attachments/assets/7bbb5f08-b6a1-4204-951a-1ff5d175c5a5" />
+
+<img width="1303" height="894" alt="image" src="https://github.com/user-attachments/assets/68b3ec67-8cc4-4e31-af88-aca05f912cdd" />
 
 
 ## 📦 İçindekiler
