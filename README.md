@@ -5,6 +5,16 @@
 Bu, AstroWAMP Node.js uygulamasının portable (taşınabilir) versiyonudur. Node.js runtime dahil tek bir .exe dosyası olarak çalışır.
 <img width="1914" height="1025" alt="image" src="https://github.com/user-attachments/assets/df255f66-d1d2-4e83-bbf9-98eff522de02" />
 
+<img width="1971" height="634" alt="image" src="https://github.com/user-attachments/assets/5c251090-576a-4961-b34b-100902e82932" />
+
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/8e587391-4b6f-44e5-ace7-839d76d4b25c" />
+
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/288caebd-808f-48db-baed-8b581adfae41" />
+
+<img width="1913" height="1032" alt="image" src="https://github.com/user-attachments/assets/eda1fdb3-58ab-4582-b109-da30bc79655d" />
+
+
+
 ## 📦 İçindekiler
 
 ```
