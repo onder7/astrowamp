@@ -2,6 +2,9 @@
 
 > **Language / Dil:** [🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
 
+## Download
+https://drive.google.com/file/d/1NIlF4qbY1sI4bFeWArmao9pla2ZPQsli/view?usp=sharing
+
 ## 🚀 Standalone Executable
 
 This is the portable version of the AstroWAMP Node.js application. It runs as a single .exe file with Node.js runtime included.
