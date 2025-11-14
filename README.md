@@ -7,7 +7,8 @@ https://drive.google.com/file/d/1NIlF4qbY1sI4bFeWArmao9pla2ZPQsli/view?usp=shari
 
 
 
-[![Video Deomo](https://www.youtube.com/watch?v=UdduVA40EsM)
+
+[![YouTube Video](https://img.youtube.com/vi/UdduVA40EsM/0.jpg)](https://www.youtube.com/watch?v=UdduVA40EsM)
 
 ## 🚀 Standalone Executable
 
