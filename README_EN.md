@@ -24,6 +24,9 @@ Start and stop all these services with a single click! No installation required,
 ## 🚀 Standalone Executable
 
 This is the portable version of the AstroWAMP Node.js application. It runs as a single .exe file with Node.js runtime included.
+
+<img width="1660" height="773" alt="image" src="https://github.com/user-attachments/assets/1980b6a6-015f-4531-94ed-81817e88e3ee" />
+
 <img width="1914" height="1025" alt="image" src="https://github.com/user-attachments/assets/df255f66-d1d2-4e83-bbf9-98eff522de02" />
 
 <img width="1971" height="634" alt="image" src="https://github.com/user-attachments/assets/5c251090-576a-4961-b34b-100902e82932" />
@@ -37,6 +40,9 @@ This is the portable version of the AstroWAMP Node.js application. It runs as a 
 <img width="1215" height="922" alt="image" src="https://github.com/user-attachments/assets/7bbb5f08-b6a1-4204-951a-1ff5d175c5a5" />
 
 <img width="1303" height="894" alt="image" src="https://github.com/user-attachments/assets/68b3ec67-8cc4-4e31-af88-aca05f912cdd" />
+
+<img width="1912" height="1029" alt="image" src="https://github.com/user-attachments/assets/4b81c527-aebd-4177-bbf2-273c20a4dad0" />
+
 ## 📦 Contents
 
 ```
