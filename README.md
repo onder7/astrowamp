@@ -5,6 +5,8 @@
 ## Download
 https://drive.google.com/file/d/1NIlF4qbY1sI4bFeWArmao9pla2ZPQsli/view?usp=sharing
 
+https://ondernet.net/astrowamp-portable-nodejs-application
+
 [![Proje Demo Videosu](https://img.youtube.com/vi/UdduVA40EsM/maxresdefault.jpg)](https://www.youtube.com/watch?v=UdduVA40EsM)
 
 ## 🚀 Standalone Executable
