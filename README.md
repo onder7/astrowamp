@@ -2,7 +2,7 @@
 
 > **Language / Dil:** [🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
 
-## Download
+## Download için mesaj atın onder7@gmail.com
 https://drive.google.com/file/d/1NIlF4qbY1sI4bFeWArmao9pla2ZPQsli/view?usp=sharing
 
 https://ondernet.net/astrowamp-portable-nodejs-application
